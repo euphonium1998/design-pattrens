@@ -1,7 +1,6 @@
-package singleton;
+package Singleton;
 
 import java.lang.reflect.Constructor;
-import java.lang.reflect.InvocationTargetException;
 
 public class Test {
     public static void main(String[] args) throws Exception {

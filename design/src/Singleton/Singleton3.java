@@ -1,4 +1,4 @@
-package singleton;
+package Singleton;
 
 //线程安全懒汉式
 public class Singleton3 {

@@ -1,4 +1,4 @@
-package singleton;
+package Singleton;
 
 //DLC懒汉式
 public class Singleton2 {

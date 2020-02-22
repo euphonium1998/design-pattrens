@@ -5,4 +5,5 @@
 
 ***目录结构***
 
-* 单例模式: design/src/singleton
+* 单例模式: design/src/Singleton
+* 观察者模式: design/src/Observer

@@ -1,4 +1,4 @@
-package singleton;
+package Singleton;
 
 //饿汉式
 public class Singleton1 {
